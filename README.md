@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KovaletsV
-- 👀 I’m interested in web programming 
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m front-end developer
+- 🌱 I’m currently using JavaScript, ReactJS
+
 
 <!---
 KovaletsV/KovaletsV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
